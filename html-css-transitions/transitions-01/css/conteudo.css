@@ -1,0 +1,112 @@
+* {
+    box-sizing: border-box;
+}
+
+.conteudo {
+    background-color: var(--primary-color);
+    padding: 8rem 1rem 4rem 1rem;
+}
+
+.card {
+    height: 400px;
+    width: 500px;
+    border-radius: .5rem;
+    background-image: url('../img/medium-shot-man-wearing-vr-glasses.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: grayscale(0.5);
+    color: var(--white-color);
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+@media screen and (max-width: 768px) {
+
+    .card {
+        height: 200px;
+        width: 250px;
+    }
+
+}
+
+
+
+.card-wrapper {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.card-wrapper::before {
+    content: '';
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    display: block;
+    border: 1px solid var(--white-color);
+    border-radius: 8px;
+    opacity: 0;
+    transition: 0.3s;
+}
+
+.card-wrapper h2 {
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin: 0;
+    transition: 0.3s;
+}
+
+@media screen and (max-width: 768px) {
+
+    .card-wrapper h2 {
+        font-size: 1rem;
+    }
+}
+
+.card-wrapper p {
+    font-size: 0;
+    visibility: hidden;
+    opacity: 0;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+
+
+
+.card:hover {
+    filter: unset;
+}
+
+.card:hover>.card-wrapper::before {
+    height: 300px;
+    width: 400px;
+    opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .card:hover>.card-wrapper::before {
+        height: 150px;
+        width: 200px;
+    }
+}
+
+.card:hover>.card-wrapper p {
+    opacity: 1;
+    visibility: visible;
+    font-size: 0.875rem;
+}
+
+@media screen and (max-width: 768px) {
+    .card:hover>.card-wrapper p {
+        font-size: 0.6rem;
+    }
+}
