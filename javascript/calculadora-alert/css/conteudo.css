@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+.conteudo {
+    background-color: var(--primary-color);
+    padding: 8rem 1rem 4rem 1rem;
+}
+
+.container__comparador {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    border: none;
+    padding: .5rem 1rem;
+    margin: 0 .5rem;
+    border-radius: .5rem;
+    box-shadow: 3px 3px 3px rgb(00, 00, 00, .06);
+    color: var(--secondary-color);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.input__numeros {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 750px) {
+    .input {
+        margin: .5rem 0;
+    }
+
+    .input__numeros {
+        flex-direction: column;
+
+    }
+}
+
+
+
+.input::placeholder {
+    font-family: 'Montserrat', sans-serif;
+    font-size: .8rem;
+    width: auto;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.botao__comparar {
+    margin-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: var(--white-color);
+    border: none;
+    border-radius: .5rem;
+    background-color: var(--secondary-color);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    width: auto;
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+
+}
+
+.botao__comparar:hover {
+    border-radius: .5rem;
+    box-shadow: 2px 8px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+@media screen and (max-width: 900px) {
+    .botao__comparar {
+        font-size: .75rem;
+    }
+}
+
+.resultado {
+    margin-top: 2rem;
+    color: -var(--black-color);
+    text-align: center;
+
+
+}

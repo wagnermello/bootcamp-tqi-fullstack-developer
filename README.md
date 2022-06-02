@@ -4,8 +4,13 @@
 
 <p align="center">⚠️ Projeto em desenvolvimento ⚠️</p>
 
+<<<<<<< HEAD
 <p align="center">Você pode acessar o projeto completo no meu site:</p>
 <p align="center">https://wagnermello.com/bootcamp-tqi-fullstack-developer/projetos/</p> 
+=======
+<p align="center">Você pode acessar o projeto completo no meu site: 
+https://wagnermello.com/bootcamp-tqi-fullstack-developer/projetos/ </p>
+>>>>>>> f0fe1bf791cb4a7b970396a58375a8fe03bde412
 
 
 #
@@ -20,11 +25,17 @@
 03. Keyframes 01
 04. Keyframes 02
 05. Projeto Final
+<<<<<<< HEAD
 
 #
 
 <h3>JavaScript</h3>
 
 01. Contador
-02. Calculadora
+02. To Do List
+03. Calculadora Alert
+04. Comparação de Números
+05. Palíndromo
 
+=======
+>>>>>>> f0fe1bf791cb4a7b970396a58375a8fe03bde412
