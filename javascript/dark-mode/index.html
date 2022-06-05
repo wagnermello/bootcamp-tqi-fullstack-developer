@@ -41,26 +41,10 @@
         </nav>
     </header>
     <!-- CONTEÚDO AQUI -->
-    <main class="conteudo">
-        <h1 class="titulo__principal">Palíndromo</h1>
-        <h2 class="frase__instrucoes">Um palíndromo é uma palavra que pode ser lida de trás para frente de maneira
-            igual.
-        </h2>
-        <h2 class="frase__exemplo">Exemplo: "ovo" ou "mirim"</h2>
-
+    <main id="conteudo" class="conteudo">
+        <h1 id="titulo" class="titulo__principal">Light Mode</h1>
         <section class="container">
-
-            <form>
-                <!-- input aceitando apenas letras -->
-                <input class="input"
-                    onkeypress="return (event.charCode > 64 && event.charCode < 91) || (event.charCode > 96 && event.charCode < 123)"
-                    name="palavra" id="palavra" placeholder="Digite uma palavra...">
-                <!-- input aceitando apenas letras -->
-
-                <button class="botao__verificar" type="submit" id="send">Verificar</button>
-                <p class="resultado">Sua resposta aparecerá aqui.</p>
-                </div>
-            </form>
+            <button class="mode__light" id="mode-selector">Trocar para Dark Mode</button>
 
         </section>
     </main>
@@ -80,7 +64,7 @@
             </div>
             <div class="rodape__botoes">
                 <div class="rodape__botoes">
-                    <a href="https://wagnermello.com/bootcamp-tqi-fullstack-developer/javascript/comparacao-de-numeros"
+                    <a href="https://wagnermello.com/bootcamp-tqi-fullstack-developer/javascript/palindromo"
                         refer="norefferer noopener">
                         <div class="botao-voltar"><img src="../../assets/icone-voltar.svg"></div>
                     </a>
@@ -88,7 +72,7 @@
                         refer="norefferer noopener">
                         <div class="botao">PROJETOS DO BOOTCAMP</div>
                     </a>
-                    <a href="https://wagnermello.com/bootcamp-tqi-fullstack-developer/javascript/dark-mode"
+                    <a href="https://wagnermello.com/bootcamp-tqi-fullstack-developer/javascript/jogo-de-memoria"
                         refer="norefferer noopener">
                         <div class="botao-avancar"><img src="../../assets/icone-avancar.svg"></div>
                     </a>

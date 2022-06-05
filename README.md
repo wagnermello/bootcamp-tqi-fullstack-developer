@@ -32,4 +32,6 @@ https://wagnermello.com/bootcamp-tqi-fullstack-developer/projetos/ </p>
 03. Calculadora Alert
 04. Comparação de Números
 05. Palíndromo
+06. Dark Mode
+07. Jogo de Memória
 
