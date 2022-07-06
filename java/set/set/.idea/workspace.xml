@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f5ab581-6d60-45e0-a918-bcc2e56e16bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../equals-hash-java/equals-hash-java/src/main/java/one/digitalinovation/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../equals-hash-java/equals-hash-java/src/main/java/one/digitalinovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/src/main/java/com/example/list/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/src/main/java/com/example/list/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/src/main/java/com/example/list/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/src/main/java/com/example/list/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../list/list/src/main/resources/com/example/list/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../map/map/src/main/java/com/digitalinnovation/map/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/src/main/java/com/digitalinnovation/queue/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/src/main/java/com/digitalinnovation/queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../queue/queue/src/main/resources/com/digitalinnovation/queue/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/src/main/java/com/digitalinnovation/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/src/main/java/com/digitalinnovation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/src/main/java/com/example/stack/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/src/main/java/com/example/stack/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stack/stack/src/main/resources/com/example/stack/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intro-collections" beforeDir="false" afterPath="$PROJECT_DIR$/../../intro-collections" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BZvteSeRZJO5jHGfmsqgzDVqS4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/Front End Design/Desktop/DIO/bootcamp-tqi-fullstack-developer/java/debugging-java-master",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5ab581-6d60-45e0-a918-bcc2e56e16bc" name="Changes" comment="" />
+      <created>1657126640348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657126640348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
